@@ -37,7 +37,7 @@
       <recent name="C:\Users\Thoma\OneDrive - Middleton Grange School\2022\# Computer Science\1TestRepos" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dictionaries practice">
+  <component name="RunManager" selected="Python.ticketprices">
     <configuration name="dictionaries practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Functions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ticketprices" />
         <item itemvalue="Python.dictionaries practice" />
         <item itemvalue="Python.movieticketprices" />
         <item itemvalue="Python.playing around with code" />
         <item itemvalue="Python.wordle" />
-        <item itemvalue="Python.ticketprices" />
       </list>
     </recent_temporary>
   </component>
